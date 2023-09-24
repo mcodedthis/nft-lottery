@@ -1,8 +1,6 @@
-# Sample Hardhat Project
+# NFT Lottery
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
+This project allows you to mint an nft and then users can submit small payments to enter a lottery, when the lottery is ended the nft is distributed to winning user and the losers are refunded
 
 ```shell
 npx hardhat help
